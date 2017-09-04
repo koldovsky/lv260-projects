@@ -122,14 +122,14 @@ app.service('studentService', ['$q', function ($q) {
           "websiteUrl": "https://nata321.github.io/artgallery/",
           "codeSourceUrl": "https://github.com/nata321/artgallery",
           "cvUrl": "https://www.linkedin.com/in/nataliya-kostikova-263806140/",
-          "photo": "images/students/kostikova.jpg"
+          "photo": "images/students/kostikova.png"
         },
         {
           "name": "Olexandr Zhytenko",
           "websiteUrl": "https://alexandrzhytenko.github.io/web-site-studying-web-development/",
           "codeSourceUrl": "https://github.com/AlexandrZhytenko/web-site-studying-web-development",
           "cvUrl": "https://www.linkedin.com/in/olexandr-zhytenko-032b6a3a/",
-          "photo": "images/students/zhytenko.jpg"
+          "photo": "images/students/zhytenko.png"
         },
         {
           "name": "Olha Plekan",
@@ -142,7 +142,7 @@ app.service('studentService', ['$q', function ($q) {
           "name": "Andrii Osetrov",
           "websiteUrl": "https://andrii-osetrov.github.io/my-project/",
           "codeSourceUrl": "https://github.com/andrii-osetrov/my-project/",
-          "cvUrl": "",
+          "cvUrl": "https://www.linkedin.com/in/andrii-osetrov-1aaa3714a/",
           "photo": "images/students/osetrov.jpg"
         },
         {
@@ -168,10 +168,10 @@ app.service('studentService', ['$q', function ($q) {
         },
         {
           "name": "Roksolana Babii",
-          "websiteUrl": "https://projectm-roksolanababiy.c9users.io/index.html",
-          "codeSourceUrl": "https://roksolanababiy.github.io/git/",
+          "websiteUrl": "https://roksolanababiy.github.io/git/",
+          "codeSourceUrl": "https://github.com/roksolanababiy/git",
           "cvUrl": "",
-          "photo": "images/students/babii.jpg"
+          "photo": "images/students/babii.png"
         },
         {
           "name": "Taras Stakhovskyi",
